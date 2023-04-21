@@ -16,12 +16,12 @@
     O banco de dados construído é constítuido por:
 </p>
 
-    <ul>
-        <li>4 Tabelas</li>
-        <li>9 Procedimentos</li>
-        <li>1 Trigger</li>
-        <li>1 Função</li>
-    </ul>
+<ul>
+    <li>4 Tabelas</li>
+    <li>9 Procedimentos</li>
+    <li>1 Trigger</li>
+    <li>1 Função</li>
+</ul>
 
 
 <h2>Arquivos 🗂️</h2>
