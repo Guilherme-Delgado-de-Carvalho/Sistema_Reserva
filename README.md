@@ -14,6 +14,7 @@
 </p>
 <p> 
     O banco de dados construído é constítuido por:
+</p>
 
     <ul>
         <li>4 Tabelas</li>
@@ -21,7 +22,7 @@
         <li>1 Trigger</li>
         <li>1 Função</li>
     </ul>
-</p>
+
 
 <h2>Arquivos 🗂️</h2>
 <p>Todos os arquivos dsponiveis relacionados ao projeto</p>
