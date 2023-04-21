@@ -1,7 +1,5 @@
 <h1>Sistema de Reserva </h1>
 
-<h2>Índice 📚</h2>
-
 <h2>Sobre 💡</h2>
 <p>Projeto de um sistema de reserva de um complexo esportivo inteiramente em MySQL.</p>
 <p>
